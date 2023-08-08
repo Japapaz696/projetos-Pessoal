@@ -5,8 +5,7 @@ header{
 }
 body{
     background-image: url(imagens/foto-de-foco-seletivo-de-amnesias-originais-verdes-em-um-fundo-escuro.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-position: center left;
 }
 header{
     padding: auto;
@@ -55,5 +54,9 @@ main{
     transform: translate(200px,-100px);
     display: block;
     margin: auto;
+    width: 50%;
+ }
+ main img{
+    width: 90%;
  }
 
