@@ -50,7 +50,7 @@ main{
 .imagen1{
     width: 1px; 
     height: 0px;
-    transform: translate(300px,-100px);
+    transform: translate(200px,-100px);
     display: block;
     margin: auto;
  }
