@@ -54,7 +54,6 @@ main{
     transform: translate(200px,-100px);
     display: block;
     margin: auto;
-    width: 50%;
  }
  main img{
     width: 90%;
