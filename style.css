@@ -40,7 +40,7 @@ main{
     padding: auto;
     padding: 10px;
     margin: 10px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(9, 97, 3, 0.651);
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
