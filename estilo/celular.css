@@ -1,8 +1,10 @@
 @charset "UTF-8";
 @media screen and (min-width:600px) and (max-width:768px){
     .imagen1{
-        transform: translate(105px,-100px);
+        transform: translate(130px,-100px);
         display: block;
-    }
-        
+    }       
+}
+body{
+    background-position: bottom 10px left 20% ;
 }
