@@ -1,0 +1,7 @@
+@charset "UTF-8";
+button{
+    display: none;
+}
+input:not(:placeholder-shown) + button{
+    display: block;
+}
